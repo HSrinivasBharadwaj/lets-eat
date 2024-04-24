@@ -1,0 +1,8 @@
+export const LOGO_URI = "https://images-platform.99static.com/v84irzbNBd5aawXGKXfH4SEjcn0=/0x0:960x960/500x500/top/smart/99designs-contests-attachments/117/117132/attachment_117132760"
+export const CART_URI = "https://media.istockphoto.com/id/1206806317/vector/shopping-cart-icon-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=1RRQJs5NDhcB67necQn1WCpJX2YMfWZ4rYi1DFKlkNA="
+export const SWIGGY_URI = "https://www.swiggy.com/dapi/restaurants/list/v5?lat=12.9120815&lng=77.5462476&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING"
+export const CATEGORIES_URI = "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/"
+export const RESTAURANT_PAGE_URI = "https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=12.96340&lng=77.58550&isMenuUx4&restaurantId="
+export const RESTAURANT_ITEMS_IMAGE_URI = "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/"
+export const RESTAURANT_MENU_IMAGE_URI = "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/"
+export const API_KEY = "sk-proj-GFZSIplvQurrzHvpRMQtT3BlbkFJqmwoVuYj21LRLgByVixx"
